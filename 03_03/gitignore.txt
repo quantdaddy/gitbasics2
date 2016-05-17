@@ -1,6 +1,7 @@
 # Exclude the .htaccess file
 .htaccess
 
+# added a comment
 # Exclude any PSD/AI source
 *.psd
 *.ai
